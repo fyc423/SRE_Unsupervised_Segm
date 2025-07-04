@@ -5,4 +5,4 @@
  
  *Yale University*
 
-![teaser](assets/tesser.gif)
+![teaser](assets/teaser.gif)
