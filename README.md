@@ -63,8 +63,7 @@ python src/inter_subject.py \
 - `--seed`: Random seed for reproducibility  
 - `--weight_path`: Path to pretrained model weights  
 - `--output_path`: Directory where segmentation outputs will be saved
-- `csv_path`: Path to a CSV file with metadata and image paths
-- `test_data_path`: (Optional) For inter-subject analysis only. Path to test data CSV file. 
+- `--test_data_path`: (Optional) For inter-subject analysis only. Path to test data CSV file. 
 
 ## Reference
 
